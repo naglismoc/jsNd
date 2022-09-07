@@ -22,3 +22,6 @@ console.log(rndTxt.substring(4,rndTxt.length-2));
 
 console.log(minutes.substring(minutes.length-2));
 console.log("Star Wars: Episode "+ " ".repeat( Math.ceil(Math.random() * 10))+(Math.ceil (Math.random() * 7)+1) + " - A New Hope");
+
+
+console.log("labas as krabas".includes("krabas"));
